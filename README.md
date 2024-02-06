@@ -8,6 +8,9 @@ All the c programs here are just for the purpose of familiarising myself with th
 Python/Neural Net:
 This was a project I abandoned. I was following a tutorial on YouTube about neural networks in Python.
 
+Python/allOutcomes:
+I made this algorithm myself in 2021 when I had the idea to make a website that supplies users with past papers for Grade 10, 11 and 12, for a wide variety of subjects, from 2010 to 2021. I abandoned the idea for this site, as that same year I came across numerous sites that do the same thing, and also, tackling such a huge project would be insanely difficult.
+
 Python/checkPrime:
 This program check whether an inputted number is a prime number or not. It was a coding problem I solved.
 
